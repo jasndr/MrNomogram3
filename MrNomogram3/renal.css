@@ -1,0 +1,91 @@
+
+
+body
+{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 13px;
+	background-color: #add8e6;
+	background-image: url(images/kidney-x-section4.gif);
+}
+
+form
+{
+	margin-top: 5px;
+}
+
+table
+{
+	background-color: #ffffff;
+}
+table.resultTable
+{
+	background-color: #cccccc;
+}
+tr.default
+{
+	background-color: #ffffff;
+}
+tr.resultTableHeader
+{
+	background-color: #f0f0f0;
+}
+
+.title
+{
+	font-family: verdana, arial, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.param
+{
+	font-family: chicago, serif;
+	font-size: 15px;
+	color: #202060;
+}
+
+.required
+{
+	font-family: verdana, arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.entryTitle
+{
+	font-family: verdana, arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.inputRemind
+{
+	font-family: verdana, arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #990000;
+	font-style: italic;
+}
+
+.result
+{
+	font-family: chicago, serif;
+}
+
+.picNumber
+{
+	font-family: arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000066;
+}
+
+.picHeader
+{
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000066;
+}

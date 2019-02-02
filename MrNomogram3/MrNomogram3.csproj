@@ -67,13 +67,136 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
+    <Content Include="default.aspx" />
+    <Content Include="default2.aspx" />
+    <Content Include="images\arrow2a.gif" />
+    <Content Include="images\arrow2b.gif" />
+    <Content Include="images\arrow2c.gif" />
+    <Content Include="images\kidney-x-section4.gif" />
+    <Content Include="images\trans.gif" />
+    <Content Include="plots\normal_percent000a.jpg" />
+    <Content Include="plots\normal_percent001a.jpg" />
+    <Content Include="plots\normal_percent002a.jpg" />
+    <Content Include="plots\normal_percent003a.jpg" />
+    <Content Include="plots\normal_percent004a.jpg" />
+    <Content Include="plots\normal_percent005a.jpg" />
+    <Content Include="plots\normal_percent006a.jpg" />
+    <Content Include="plots\normal_percent007a.jpg" />
+    <Content Include="plots\normal_percent008a.jpg" />
+    <Content Include="plots\normal_percent009a.jpg" />
+    <Content Include="plots\normal_percent010a.jpg" />
+    <Content Include="plots\normal_percent011a.jpg" />
+    <Content Include="plots\normal_percent012a.jpg" />
+    <Content Include="plots\normal_percent013a.jpg" />
+    <Content Include="plots\normal_percent014a.jpg" />
+    <Content Include="plots\normal_percent015a.jpg" />
+    <Content Include="plots\normal_percent016a.jpg" />
+    <Content Include="plots\normal_percent017a.jpg" />
+    <Content Include="plots\normal_percent018a.jpg" />
+    <Content Include="plots\normal_percent019a.jpg" />
+    <Content Include="plots\normal_percent020a.jpg" />
+    <Content Include="plots\normal_percent021a.jpg" />
+    <Content Include="plots\normal_percent022a.jpg" />
+    <Content Include="plots\normal_percent023a.jpg" />
+    <Content Include="plots\normal_percent024a.jpg" />
+    <Content Include="plots\normal_percent025a.jpg" />
+    <Content Include="plots\normal_percent026a.jpg" />
+    <Content Include="plots\normal_percent027a.jpg" />
+    <Content Include="plots\normal_percent028a.jpg" />
+    <Content Include="plots\normal_percent029a.jpg" />
+    <Content Include="plots\normal_percent030a.jpg" />
+    <Content Include="plots\normal_percent031a.jpg" />
+    <Content Include="plots\normal_percent032a.jpg" />
+    <Content Include="plots\normal_percent033a.jpg" />
+    <Content Include="plots\normal_percent034a.jpg" />
+    <Content Include="plots\normal_percent035a.jpg" />
+    <Content Include="plots\normal_percent036a.jpg" />
+    <Content Include="plots\normal_percent037a.jpg" />
+    <Content Include="plots\normal_percent038a.jpg" />
+    <Content Include="plots\normal_percent039a.jpg" />
+    <Content Include="plots\normal_percent040a.jpg" />
+    <Content Include="plots\normal_percent041a.jpg" />
+    <Content Include="plots\normal_percent042a.jpg" />
+    <Content Include="plots\normal_percent043a.jpg" />
+    <Content Include="plots\normal_percent044a.jpg" />
+    <Content Include="plots\normal_percent045a.jpg" />
+    <Content Include="plots\normal_percent046a.jpg" />
+    <Content Include="plots\normal_percent047a.jpg" />
+    <Content Include="plots\normal_percent048a.jpg" />
+    <Content Include="plots\normal_percent049a.jpg" />
+    <Content Include="plots\normal_percent050a.jpg" />
+    <Content Include="plots\normal_percent051a.jpg" />
+    <Content Include="plots\normal_percent052a.jpg" />
+    <Content Include="plots\normal_percent053a.jpg" />
+    <Content Include="plots\normal_percent054a.jpg" />
+    <Content Include="plots\normal_percent055a.jpg" />
+    <Content Include="plots\normal_percent056a.jpg" />
+    <Content Include="plots\normal_percent057a.jpg" />
+    <Content Include="plots\normal_percent058a.jpg" />
+    <Content Include="plots\normal_percent059a.jpg" />
+    <Content Include="plots\normal_percent060a.jpg" />
+    <Content Include="plots\normal_percent061a.jpg" />
+    <Content Include="plots\normal_percent062a.jpg" />
+    <Content Include="plots\normal_percent063a.jpg" />
+    <Content Include="plots\normal_percent064a.jpg" />
+    <Content Include="plots\normal_percent065a.jpg" />
+    <Content Include="plots\normal_percent066a.jpg" />
+    <Content Include="plots\normal_percent067a.jpg" />
+    <Content Include="plots\normal_percent068a.jpg" />
+    <Content Include="plots\normal_percent069a.jpg" />
+    <Content Include="plots\normal_percent070a.jpg" />
+    <Content Include="plots\normal_percent071a.jpg" />
+    <Content Include="plots\normal_percent072a.jpg" />
+    <Content Include="plots\normal_percent073a.jpg" />
+    <Content Include="plots\normal_percent074a.jpg" />
+    <Content Include="plots\normal_percent075a.jpg" />
+    <Content Include="plots\normal_percent076a.jpg" />
+    <Content Include="plots\normal_percent077a.jpg" />
+    <Content Include="plots\normal_percent078a.jpg" />
+    <Content Include="plots\normal_percent079a.jpg" />
+    <Content Include="plots\normal_percent080a.jpg" />
+    <Content Include="plots\normal_percent081a.jpg" />
+    <Content Include="plots\normal_percent082a.jpg" />
+    <Content Include="plots\normal_percent083a.jpg" />
+    <Content Include="plots\normal_percent084a.jpg" />
+    <Content Include="plots\normal_percent085a.jpg" />
+    <Content Include="plots\normal_percent086a.jpg" />
+    <Content Include="plots\normal_percent087a.jpg" />
+    <Content Include="plots\normal_percent088a.jpg" />
+    <Content Include="plots\normal_percent089a.jpg" />
+    <Content Include="plots\normal_percent090a.jpg" />
+    <Content Include="plots\normal_percent091a.jpg" />
+    <Content Include="plots\normal_percent092a.jpg" />
+    <Content Include="plots\normal_percent093a.jpg" />
+    <Content Include="plots\normal_percent094a.jpg" />
+    <Content Include="plots\normal_percent095a.jpg" />
+    <Content Include="plots\normal_percent096a.jpg" />
+    <Content Include="plots\normal_percent097a.jpg" />
+    <Content Include="plots\normal_percent098a.jpg" />
+    <Content Include="plots\normal_percent099a.jpg" />
+    <Content Include="plots\normal_percent100a.jpg" />
+    <Content Include="plots\normal_percent101a.jpg" />
+    <Content Include="renal.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculation.cs" />
+    <Compile Include="Conversion.cs" />
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default2.aspx.cs">
+      <DependentUpon>default2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="ZPercent.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -96,7 +219,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50101</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50101/</IISUrl>
+          <IISUrl>http://localhost:50102/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
